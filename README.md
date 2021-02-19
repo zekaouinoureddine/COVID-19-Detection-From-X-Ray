@@ -3,7 +3,7 @@ Our project aims to create a solution that can easily detect covid-19 in an auto
 
 ## Table of contents
 - [Tec Stack](#tech-stacks)
-- [Data Set Descroption](#data-set-description)
+- [Data Set Description](#data-set-description)
 - [Models Tested](#models-tested)
 - [Results](#results)
 - [Authors Infos](#authors-infos)
@@ -15,7 +15,7 @@ Our project aims to create a solution that can easily detect covid-19 in an auto
 
 ---
 
-### Data Set Descroption
+### Data Set Description
 Recent findings obtained using X-ray imaging techniques suggest that these images contain important information about the COVID-19 virus. The application of advanced artificial intelligence (AI) techniques coupled with X-ray imaging can be useful for the precise detection of this virus and can also help overcome the problem of the lack of specialist doctors in remote villages. Therefore, we will use a Dataset containing two classes, the first contains x-ray images of infected people and the second contains x-ray images of non-contaminated people as shown in the table below:
 <table>
   <thead>
