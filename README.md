@@ -40,7 +40,8 @@ Recent findings obtained using X-ray imaging techniques suggest that these image
  - **Performance graphse:**
 ![](results.png)
 
- - **Comparative table:**
+
+ - **Comparative table:** 
 ![](tableResults.PNG)
 
 ---
