@@ -17,11 +17,9 @@
 ### Data Set Descroption
 Recent findings obtained using X-ray imaging techniques suggest that these images contain important information about the COVID-19 virus. The application of advanced artificial intelligence (AI) techniques coupled with X-ray imaging can be useful for the precise detection of this virus and can also help overcome the problem of the lack of specialist doctors in remote villages. Therefore, we will use a Dataset containing two classes, the first contains x-ray images of infected people and the second contains x-ray images of non-contaminated people as shown in the table below:
 <table>
-  <thead>
-    <tr>
-      <th>X-RAY IMAGES DATASET</th>
-    </tr>
-  </thead>
+  <tr>
+    <td> X-RAY IMAGES DATASET </td>
+  </tr>
   <tr>
     <td>COVID-19</td>
     <td>NO-FINDINGS</td>
