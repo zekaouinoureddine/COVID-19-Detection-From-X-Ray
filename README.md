@@ -37,8 +37,8 @@ Recent findings obtained using X-ray imaging techniques suggest that these image
 
 ---
 ### Results
-[](#results.png)
-[](#TableResults.png)
+![](#results.png)
+![](#TableResults.png)
 
 ---
 ### Authors Infos
