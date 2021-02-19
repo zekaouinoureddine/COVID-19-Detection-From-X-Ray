@@ -42,6 +42,7 @@ Recent findings obtained using X-ray imaging techniques suggest that these image
 
 
  - **Comparative table:** 
+
 ![](tableResults.PNG)
 
 ---
