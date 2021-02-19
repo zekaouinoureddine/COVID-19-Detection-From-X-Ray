@@ -37,12 +37,11 @@ Recent findings obtained using X-ray imaging techniques suggest that these image
 
 ---
 ### Results
+ - **Performance graphse:**
+![](results.png)
 
-![](#results.png)
-
-Comparative Table
-
-![](#TableResults.PNG)
+ - **Comparative table:**
+![](TableResults.PNG)
 
 ---
 ### Authors Infos
