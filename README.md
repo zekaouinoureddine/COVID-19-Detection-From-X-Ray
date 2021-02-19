@@ -41,7 +41,7 @@ Recent findings obtained using X-ray imaging techniques suggest that these image
 ![](results.png)
 
  - **Comparative table:**
-![](TableResults.PNG)
+![](tableResults.PNG)
 
 ---
 ### Authors Infos
