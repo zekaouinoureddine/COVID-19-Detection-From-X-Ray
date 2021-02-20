@@ -54,7 +54,7 @@ If you have taken a close look at the results section, we can say that:
 
 So, we can see that our project is quite successful, and we have seen that from the height performances achieved.  However, there is still much more rooms for improvement, especially if we take into account the **quality** and the **size** of our dataset.
 
----
+Finally, our best model is integrated into an Android application called [**COVID19KIT**](https://github.com/zekaouinoureddine/COVID19KIT) the mobile app created can detect COVID-19 from X-ray images in the phone gallery or even by taking a photo of your X-ray directly that you have  in your hands or on an electronic screen .
 ### Authors Infos
 - LinkedIn: [Nour Eddine ZEKAOUI](https://www.linkedin.com/in/nour-eddine-zekaoui-ba43b1177/)
 - Twitter: [@NZekaoui](https://twitter.com/NZekaoui)
