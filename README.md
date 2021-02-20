@@ -49,9 +49,10 @@ Recent findings obtained using X-ray imaging techniques suggest that these image
 ---
 ### Conclusion
 If you have taken a close look at the results section, we can say that:
-- Accuracies graphs show that there is no overfitting problem which is great!
-- Losses graphs show that our models are trained with a good learning rate, which is amazing!
-So, we can see that our project is quite successful, and we have seen that from the height performances achieved.  However, there is still much more rooms for improvement, especially if we take into account the quality and the size of our dataset.
+- Accuracies graphs show that there is **no overfitting problem** which is great!
+- Losses graphs show that our models are trained with a **good learning rate**, which is amazing!
+
+So, we can see that our project is quite successful, and we have seen that from the height performances achieved.  However, there is still much more rooms for improvement, especially if we take into account the **quality** and the **size** of our dataset.
 
 ---
 ### Authors Infos
