@@ -8,15 +8,10 @@ Our project aims to create a solution that can easily detect covid-19 in an auto
 - [Results](#results)
 - [Authors Infos](#authors-infos)
 - [Conclusion](#conclusion) 
-
----
-### Tech Stacks
+## Tech Stacks
 * [x] Python
 * [x] Keras/TensorFlow
-
----
-
-### Data Set Description
+## Data Set Description
 Recent findings obtained using X-ray imaging techniques suggest that these images contain important information about the COVID-19 virus. The application of advanced artificial intelligence (AI) techniques coupled with X-ray imaging can be useful for the precise detection of this virus and can also help overcome the problem of the lack of specialist doctors in remote villages. Therefore, we will use a Dataset containing two classes, the first contains x-ray images of infected people and the second contains x-ray images of non-contaminated people as shown in the table below:
 <table>
   <thead>
@@ -29,24 +24,27 @@ Recent findings obtained using X-ray imaging techniques suggest that these image
 </table>
  
 ---
-### Models Tested
+## Models Tested
  - [VGG16](https://github.com/zekaouinoureddine/COVID-19-DETECTION-FROM-X-RAY/blob/main/Covid19Detection_VGG16.ipynb)
  - [VGG19](https://github.com/zekaouinoureddine/COVID-19-DETECTION-FROM-X-RAY/blob/main/Covid19Detection_VGG19.ipynb)
  - [ResNet50](https://github.com/zekaouinoureddine/COVID-19-DETECTION-FROM-X-RAY/blob/main/Covid19Detection_ResNet50.ipynb)
  - [SAIMESE (Error ⁉️)](https://github.com/zekaouinoureddine/COVID-19-DETECTION-FROM-X-RAY/blob/main/Covid19Detection_SIAMESE.ipynb)
  - [Our Own Architecture](https://github.com/zekaouinoureddine/COVID-19-DETECTION-FROM-X-RAY/blob/main/Covid19Detection_Own%20Architecture.ipynb): 
 
----
-### Results
+## Results
  - **Performance graphse:**
-![](results.png)
+
+<p align="center">
+    <img src="./assets/results.png" />
+</p>
 
 
  - **Comparative table:** 
 
-![](tableResults.PNG)
+<p align="center">
+    <img src="./assets/tableResults.PNG" />
+</p>
 
----
 ### Conclusion
 If you have taken a close look at the results section, we can say that:
 - Accuracies graphs show that there is **no overfitting problem** which is great!
@@ -58,13 +56,11 @@ Finally, our best model is integrated into an Android application called [**COVI
 
 The screen below shows the **reserved app activities** for covid-19 detection:
 
-![](covid19kit.png) 
-
-
----
+![covid19kit.png](./assets/covid19kit.png) 
 ### Authors Infos
 - LinkedIn: [Nour Eddine ZEKAOUI](https://www.linkedin.com/in/nour-eddine-zekaoui-ba43b1177/)
 - Twitter: [@NZekaoui](https://twitter.com/NZekaoui)
+
 ---
  
 [Back To The Top](#covid-19-detection-from-x-ray-images-using-deep-learning)
