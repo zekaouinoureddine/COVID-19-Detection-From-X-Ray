@@ -29,7 +29,7 @@ Recent findings obtained using X-ray imaging techniques suggest that these image
  - [VGG19](./notebooks/Covid19Detection_VGG19.ipynb)
  - [ResNet50](./notebooks/notebooks/Covid19Detection_ResNet50.ipynb)
  - [SAIMESE (Error ⁉️)](./notebooks/Covid19Detection_SIAMESE.ipynb)
- - [Our Own Architecture](./notebooks/Covid19Detection_Own Architecture.ipynb): 
+ - [Our Own Architecture](./notebooks/Covid19Detection_Own_Architecture.ipynb): 
 
 ## Results
  - **Performance graphse:**
