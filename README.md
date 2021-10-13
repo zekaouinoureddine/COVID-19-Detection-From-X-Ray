@@ -25,11 +25,11 @@ Recent findings obtained using X-ray imaging techniques suggest that these image
  
 ---
 ## Models Tested
- - [VGG16](https://github.com/zekaouinoureddine/COVID-19-DETECTION-FROM-X-RAY/blob/main/Covid19Detection_VGG16.ipynb)
- - [VGG19](https://github.com/zekaouinoureddine/COVID-19-DETECTION-FROM-X-RAY/blob/main/Covid19Detection_VGG19.ipynb)
- - [ResNet50](https://github.com/zekaouinoureddine/COVID-19-DETECTION-FROM-X-RAY/blob/main/Covid19Detection_ResNet50.ipynb)
- - [SAIMESE (Error ⁉️)](https://github.com/zekaouinoureddine/COVID-19-DETECTION-FROM-X-RAY/blob/main/Covid19Detection_SIAMESE.ipynb)
- - [Our Own Architecture](https://github.com/zekaouinoureddine/COVID-19-DETECTION-FROM-X-RAY/blob/main/Covid19Detection_Own%20Architecture.ipynb): 
+ - [VGG16](./notebooks/Covid19Detection_VGG16.ipynb)
+ - [VGG19](./notebooks/Covid19Detection_VGG19.ipynb)
+ - [ResNet50](./notebooks/notebooks/Covid19Detection_ResNet50.ipynb)
+ - [SAIMESE (Error ⁉️)](./notebooks/Covid19Detection_SIAMESE.ipynb)
+ - [Our Own Architecture](./notebooks/Covid19Detection_Own Architecture.ipynb): 
 
 ## Results
  - **Performance graphse:**
